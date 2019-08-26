@@ -1,4 +1,4 @@
-# react
-The React work i did
+# React
+
 
 This is a very basic counter in React.
